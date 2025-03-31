@@ -7,8 +7,8 @@ This project uses NLP models to classify and forecast events in SEC 8-K filings 
 ## 🚀 Project Overview
 
 The goal is to extract insights from 8-K reports by:
-- 📌 Classifying filings into event types (e.g., Senior Personnel Change, M&A, Financial Activities).
-- 🔮 Forecasting what event is likely to occur next based on historical sequences.
+- Classifying filings into event types (e.g., Senior Personnel Change, M&A, Financial Activities).
+- Forecasting what event is likely to occur next based on historical sequences.
 
 
 
@@ -26,9 +26,9 @@ The goal is to extract insights from 8-K reports by:
 
 ## 📊 Results
 
-- 🧠 Improved classification accuracy to **79%** using BERT.
-- 🧪 Constructed event-based portfolios (e.g., based on Senior Personnel Change) to test financial impact.
-- 🧾 Positioned as a proof-of-concept for event-driven trading strategies or risk monitoring.
+- Improved classification accuracy to **79%** using BERT.
+- Constructed event-based portfolios (e.g., based on Senior Personnel Change) to test financial impact.
+- Positioned as a proof-of-concept for event-driven trading strategies or risk monitoring.
 
 
 
