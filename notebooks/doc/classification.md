@@ -9,7 +9,7 @@ We treat this as a **multi-label classification** task.
 
 ## Model Formula
 
-![BERT multi-label classification formula](notebooks/doc/problem formula.png)
+![BERT multi-label classification formula](/problem formula.png)
 
 
 
@@ -18,14 +18,14 @@ We treat this as a **multi-label classification** task.
 
 We use a pretrained BERT model (`bert-base-uncased`) and add a **sigmoid-activated linear output layer** for multi-label prediction:
 
-![BERT multi-label classification formula2](notebooks/model_architecture.png)
+![BERT multi-label classification formula2](/model_architecture.png)
 
 
 ## ⚙️ Training Details
 
 - **Model**: `bert-base-uncased`
 - **Loss**: Binary Cross-Entropy Loss (BCE) for each label:
-![BERT multi-label classification formula2](notebooks/doc/Training details.png)
+- ![BERT multi-label classification formula2](/Training details.png)
 - **Optimizer**: AdamW
 - **Scheduler**: Linear warmup and decay
 - **Thresholding**: Labels are assigned if \( \hat{y}_j > \tau \), where \( \tau \) is a tunable threshold (e.g. 0.5)
