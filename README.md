@@ -2,7 +2,7 @@
 
 This project uses NLP models to classify and forecast events in SEC 8-K filings — turning unstructured disclosure data into structured signals that can support financial decision-making.
 
----
+
 
 ## 🚀 Project Overview
 
@@ -10,7 +10,7 @@ The goal is to extract insights from 8-K reports by:
 - 📌 Classifying filings into event types (e.g., Senior Personnel Change, M&A, Financial Activities).
 - 🔮 Forecasting what event is likely to occur next based on historical sequences.
 
----
+
 
 ## 🧠 Methodology
 
@@ -22,7 +22,7 @@ The goal is to extract insights from 8-K reports by:
 - Trained sequence models like **GRU with Attention** and **T5** to predict next event types.
 - Framed forecasting as a sequence-to-sequence task using labeled 8-K data from 2020–2024.
 
----
+
 
 ## 📊 Results
 
@@ -30,7 +30,7 @@ The goal is to extract insights from 8-K reports by:
 - 🧪 Constructed event-based portfolios (e.g., based on Senior Personnel Change) to test financial impact.
 - 🧾 Positioned as a proof-of-concept for event-driven trading strategies or risk monitoring.
 
----
+
 
 ## 🛠 Tech Stack
 
