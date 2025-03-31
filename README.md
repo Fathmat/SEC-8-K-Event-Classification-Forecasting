@@ -46,7 +46,7 @@ The goal is to extract insights from 8-K reports by:
 ├── src/                # Classification and forecasting modules
 ├── requirements.txt    # Environment setup
 └── README.md
-
+```
 ## 📈 Why This Matters
 
 SEC 8-K filings contain rich signals that are often underused.  
