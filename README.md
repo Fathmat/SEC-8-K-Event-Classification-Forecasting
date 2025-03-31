@@ -40,10 +40,4 @@ The goal is to extract insights from 8-K reports by:
 
 ## 📂 Repo Structure
 
-```bash
-.
-├── data/               # Preprocessed 8-K filings
-├── notebooks/          # Exploratory and modeling notebooks
-├── src/                # Classification and forecasting modules
-├── requirements.txt    # Environment setup
-└── README.md
+
