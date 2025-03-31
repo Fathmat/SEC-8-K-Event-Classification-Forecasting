@@ -8,7 +8,7 @@ This module classifies SEC 8-K filings into **multiple relevant event categories
 
 We treat this as a **multi-label classification** task.
 
-![BERT multi-label classification formula]()
+![BERT multi-label classification formula](notebooks/doc/problem formula.png)
 Let:
 - \( x_i \) be the input filing (text)
 - \( \mathbf{y}_i = [y_{i1}, y_{i2}, ..., y_{iC}] \) be the target binary label vector for \( C \) categories, where:
