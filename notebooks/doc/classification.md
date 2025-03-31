@@ -19,7 +19,7 @@ We treat this as a **multi-label classification** task.
 
 We use a pretrained BERT model (`bert-base-uncased`) and add a **sigmoid-activated linear output layer** for multi-label prediction:
 
-![BERT multi-label classification formula2](notebooks/doc/model architecture.png)
+![BERT multi-label classification formula2](notebooks/doc/model_architecture.png)
 ---
 
 ## ⚙️ Training Details
