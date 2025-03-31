@@ -2,7 +2,6 @@
 
 This module classifies SEC 8-K filings into **multiple relevant event categories** using a fine-tuned BERT model. Each filing can belong to **1, 2, or 3 categories** from a predefined taxonomy of 33 event types.
 
----
 
 ## 🔍 Problem Formulation
 
@@ -13,14 +12,14 @@ We treat this as a **multi-label classification** task.
 ![BERT multi-label classification formula](notebooks/doc/problem formula.png)
 
 
----
+
 
 ## 🧠 Model Architecture
 
 We use a pretrained BERT model (`bert-base-uncased`) and add a **sigmoid-activated linear output layer** for multi-label prediction:
 
-![BERT multi-label classification formula2](notebooks/doc/model_architecture.png)
----
+![BERT multi-label classification formula2](notebooks/model_architecture.png)
+
 
 ## ⚙️ Training Details
 
