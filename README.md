@@ -39,5 +39,20 @@ The goal is to extract insights from 8-K reports by:
 ---
 
 ## 📂 Repo Structure
+```bash
+.
+├── Data/               # Preprocessed 8-K filings
+├── notebooks/          # Exploratory and modeling notebooks
+├── src/                # Classification and forecasting modules
+├── requirements.txt    # Environment setup
+└── README.md
 
+## 📈 Why This Matters
 
+SEC 8-K filings contain rich signals that are often underused.  
+This project builds tools to extract those insights in a scalable and structured way — empowering analysts, investors, and automated systems.
+
+## 🙋‍♀️ About Me
+
+My name is **Fathmat** — aspiring quant & NLP explorer.  
+📫 [Connect on LinkedIn](www.linkedin.com/in/fathmat-bakayoko-30715024a)
