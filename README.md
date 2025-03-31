@@ -7,7 +7,7 @@ This project uses NLP models to classify and forecast events in SEC 8-K filings 
 ## 🚀 Project Overview
 
 The goal is to extract insights from 8-K reports by:
-- Classifying filings into event types (e.g., Senior Personnel Change, M&A, Financial Activities).
+- Classifying filings into event types (e.g., Senior Personnel Change, Share Repurchase, Financial Activities).
 - Forecasting what event is likely to occur next based on historical sequences.
 
 
