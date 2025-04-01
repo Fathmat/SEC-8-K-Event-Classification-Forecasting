@@ -9,7 +9,7 @@ We treat this as a **multi-label classification** task.
 
 ## Model Formula
 
-![BERT multi-label classification formula2](notebooks/doc/problem_formula.png)
+![BERT multi-label classification formula2](problem_formula.png)
 
 
 
