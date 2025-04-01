@@ -12,7 +12,7 @@ The goal is to extract insights from 8-K reports by:
 
 
 
-## 🧠 Methodology
+## Methodology
 
 ### 1. Classification
 - Compared **fuzzy matching** vs. **modern NLP models** (e.g., BERT, gpt-4o-mini).
