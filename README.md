@@ -56,3 +56,5 @@ This project builds tools to extract those insights in a scalable and structured
 
 My name is **Fathmat** — aspiring quant & NLP explorer.  
 📫 [Connect on LinkedIn](www.linkedin.com/in/fathmat-bakayoko-30715024a)
+
+Note: Due to file size and storage limitations, full datasets and some models are hosted on Lehigh’s high-performance computing cluster and are not included here. The repo contains a high-level overview, key scripts, and some lightweight results.
